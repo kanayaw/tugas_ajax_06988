@@ -1,0 +1,18 @@
+{
+    "name": "asus/tugas_ajax_07106",
+    "autoload": {
+        "psr-4": {
+            "Asus\\TugasAjax07106\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zaenurrochman3",
+            "email": "zaenurrochman83@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2",
+        "dompdf/dompdf": "^3.1"
+    }
+}
